@@ -3,3 +3,4 @@
 > 1. Computer Vision
 > 2. Bayesian Methods
 > 3. NLP
+> 4. RL
