@@ -1,2 +1,5 @@
 # alekriley.github.io
-ML topics
+## Topics to include
+> 1. Computer Vision
+> 2. Bayesian Methods
+> 3. NLP
